@@ -1,0 +1,92 @@
+ You have 90 of 90 known Commodore Amiga - Kickstart Images (TOSEC-v0.03) sets
+
+A1000 ROM Bootstrap (1985)(Commodore)[u]
+Action Replay MK III v3.09 (1991)(Datel Electronics)
+Action Replay MK III v3.17 (1991)(Datel Electronics)
+CD32 Extended-ROM rev 40.60 (1993)(Commodore)(CD32)
+CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[!]
+CDTV Extended-ROM v1.0 (1991)(Commodore)(CDTV)[encrypted, needs rom.key]
+CDTV Extended-ROM v2.3 (1992)(Commodore)(CDTV)
+CDTV Extended-ROM v2.7 (1992)(Commodore)(CDTV)
+Kickstart v0.7 rev 27.3 (1985)(Commodore)(A1000)(NTSC)(beta)
+Kickstart v1.0 (1985)(Commodore)(A1000)(NTSC)
+Kickstart v1.1 rev 31.34 (1985)(Commodore)(A1000)(NTSC)
+Kickstart v1.1 rev 31.34 (1985)(Commodore)(A1000)(NTSC)[o]
+Kickstart v1.1 rev 32.34 (1986)(Commodore)(A1000)(PAL)
+Kickstart v1.1 rev 32.34 (1986)(Commodore)(A1000)(PAL)[o]
+Kickstart v1.1 rev 32.34 (1986)(Commodore)(A1000)(PAL)[o][encrypted, needs rom.key]
+Kickstart v1.2 rev 33.166 (1986)(Commodore)(A1000)
+Kickstart v1.2 rev 33.166 (1986)(Commodore)(A1000)[b]
+Kickstart v1.2 rev 33.180 (1986)(Commodore)(A500-A2000)[!]
+Kickstart v1.2 rev 33.180 (1986)(Commodore)(A500-A2000)[b]
+Kickstart v1.2 rev 33.180 (1986)(Commodore)(A500-A2000)[o]
+Kickstart v1.2 rev 33.180 (1986)(Commodore)(A500-A2000)[o][encrypted, needs rom.key]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A3000)
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A3000)[o]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[!]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[b2]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[b3]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[b]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[encrypted, needs rom.key]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[h Guardian]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[o]
+Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV)[o][encrypted, needs rom.key]
+Kickstart v1.4a15 rev 36.15 (1989)(Commodore)(alpha)
+Kickstart v1.4a18 rev 36.20 (1989)(Commodore)(alpha)[for use with KickIt]
+Kickstart v1.4a18 rev 36.20 (1989)(Commodore)(alpha)[for use with ReKick]
+Kickstart v2.0 rev 36.143 (1990)(Commodore)(A3000)
+Kickstart v2.04 rev 37.175 (1991)(Commodore)(A3000)
+Kickstart v2.04 rev 37.175 (1991)(Commodore)(A500+)[!]
+Kickstart v2.04 rev 37.175 (1991)(Commodore)(A500+)[b]
+Kickstart v2.04 rev 37.175 (1991)(Commodore)(A500+)[encrypted, needs rom.key]
+Kickstart v2.04 rev 37.175 (1991)(Commodore)(pre-release)[for use with ReKick]
+Kickstart v2.05 rev 37.210 (1991)(Commodore)(pre-release)[for use with KickIt]
+Kickstart v2.05 rev 37.210 (1991)(Commodore)(pre-release)[for use with ReKick]
+Kickstart v2.05 rev 37.210 Plus (1991)(Commodore)(pre-release)[for use with KickIt]
+Kickstart v2.05 rev 37.210 Plus (1991)(Commodore)(pre-release)[for use with ReKick]
+Kickstart v2.05 rev 37.299 (1991)(Commodore)(A600)[!]
+Kickstart v2.05 rev 37.300 (1991)(Commodore)(A600HD)
+Kickstart v2.05 rev 37.350 (1992)(Commodore)(A600HD)[!]
+Kickstart v3.0 rev 39.106 (1992)(Commodore)(A1200)[!]
+Kickstart v3.0 rev 39.106 (1992)(Commodore)(A4000)[!]
+Kickstart v3.0 rev 39.106 (1992)(Commodore)(A4000)[encrypted, needs rom.key]
+Kickstart v3.1 rev 40.3 (1993)(Commodore)(beta)[for use with ReKick]
+Kickstart v3.1 rev 40.55 (1993)(Commodore)(A3000)
+Kickstart v3.1 rev 40.55 (1993)(Commodore)(A3000)[h ShapeShifter]
+Kickstart v3.1 rev 40.55 (1993)(Commodore)(A3000)[h ShapeShifter][with bonus]
+Kickstart v3.1 rev 40.55 (1993)(Commodore)(A4000)
+Kickstart v3.1 rev 40.60 (1993)(Commodore)(CD32)
+Kickstart v3.1 rev 40.62 (1993)(Commodore)(A3000)
+Kickstart v3.1 rev 40.62 (1993)(Commodore)(beta)[for use with ReKick]
+Kickstart v3.1 rev 40.63 (1993)(Commodore)(A500-A600-A2000)[!]
+Kickstart v3.1 rev 40.63 (1993)(Commodore)(A500-A600-A2000)[b2]
+Kickstart v3.1 rev 40.63 (1993)(Commodore)(A500-A600-A2000)[b]
+Kickstart v3.1 rev 40.63 (1993)(Commodore)(A500-A600-A2000)[h ShapeShifter]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A1200)[!]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A1200)[h ShapeShifter]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A4000)
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A4000)[encrypted, needs rom.key]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A4000)[h Cloanto]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(A4000)[h ShapeShifter]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(beta)[a][for use with ReKick]
+Kickstart v3.1 rev 40.68 (1993)(Commodore)(beta)[for use with ReKick]
+Kickstart v3.1 rev 40.69 (1993)(Commodore)(A1200)[h Harry Sintonen]
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(A3000)[h ShapeShifter]
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(A4000)
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(A4000)[b]
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(A4000)[h ShapeShifter]
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(A4000T)
+Kickstart v3.1 rev 40.70 (1994)(Commodore)(beta)[for use with ReKick]
+Kickstart v3.5 rev 40.71 (1996)(Amiga Technologies)[h][fake]
+Kickstart-Disk v1.0 (1985)(Commodore)(A1000)(NTSC)
+Kickstart-Disk v1.1 rev 31.34 (1985)(Commodore)(A1000)(NTSC)
+Kickstart-Disk v1.1 rev 32.34 (1986)(Commodore)(A1000)(PAL)
+Kickstart-Disk v1.1 rev 32.34 (1986)(Commodore)(A1000)(PAL)[a]
+Kickstart-Disk v1.2 rev 33.166 (1986)(Commodore)(A1000)
+Kickstart-Disk v1.2 rev 33.166 (1986)(Commodore)(A1000)[a]
+Kickstart-Disk v1.2 rev 33.166 (1986)(Commodore)(A1000)[b]
+Kickstart-Disk v1.2 rev 33.180 (1986)(Commodore)(A1000)[h HQC]
+Kickstart-Disk v1.2 rev 33.180 (1986)(Commodore)(A1000)[h LEVEL42]
+Kickstart-Disk v1.3 rev 34.5 (1987)(Commodore)(A1000)
+SuperKickstart-Disk v2.0 rev 36.143 (1990)(Commodore)(A3000)
+SuperKickstart-Disk v2.04 rev 37.175 (1991)(Commodore)(A3000)
